@@ -1,4 +1,4 @@
-StoreApp-for-Art-Gallery description
+# Ecommerce Site for Art Gallery 
 
 * App developed for Art-Gallery
 * Customer can choose painting and add it in cart 
