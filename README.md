@@ -1,9 +1,9 @@
-# README
+StoreApp-for-Art-Gallery description
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+* App developed for Art-Gallery
+* Customer can choose painting and add it in cart 
+* Customer can choose mode of payemnt 
+* Paintings are added with image, price and description by the admin of the gallery
 
 * Ruby version 2.7.2
 * Rails version 6.0.3
